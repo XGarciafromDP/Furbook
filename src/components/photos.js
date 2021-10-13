@@ -10,13 +10,7 @@ function Photos() {
     <div className='container-fluid Photos'>
       <div className='row'>
         <div className='col'>
-          <img src={ cat } alt="cat"/>
-        </div>
-        <div className='col'>
-          <img src={ dog2 } alt="small dog"/>
-        </div>
-        <div className='col'>
-          <img src={ dog1 } alt="large dog"/>
+          <img src={ ea } alt="ea.jpg">
         </div>
       </div>
     </div>
